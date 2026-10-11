@@ -1,37 +1,44 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-dark.svg">
-  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-light.svg" width="1200" alt="彧晟 Eason — 让连接发生。做有趣、好用的开源工具。">
+  <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-v3-mobile-dark.svg">
+  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-v3-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-v3-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-v3-light.svg" width="1200" alt="彧晟 Eason：让连接发生。做有趣、好用的开源工具。">
 </picture>
 
-我在做 AI 对话、游戏数据与聊天协作相关的开源工具。下面是我想与你分享的三个项目。
-
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/heading-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/heading-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/heading-dark.svg">
-  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/heading-light.svg" width="1200" alt="精选作品">
+  <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/heading-v3-mobile-dark.svg">
+  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/heading-v3-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/heading-v3-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/heading-v3-light.svg" width="1200" alt="精选作品">
 </picture>
 
 <a href="https://github.com/Eason4869/Ooptra">
-<img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/ooptra-cover-v2.png" width="1200" alt="Ooptra：Oopz 消息桥接 OneBot v11，支持 AI 语音对话与 Web 控制台。点击查看项目。">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/ooptra-v3-mobile-dark.svg">
+  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/ooptra-v3-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/ooptra-v3-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/ooptra-v3-light.svg" width="1200" alt="Ooptra：让 AI 加入你的语音房间。连接 Oopz 与机器人框架，把消息、语音与控制台连在一起。点击查看项目。">
+</picture>
 </a>
-
-Oopz 消息桥接 OneBot v11，支持 AI 语音对话与 Web 控制台。
 
 <a href="https://github.com/Eason4869/astrbot_plugin_PlayStationGames">
-<img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/playstation-cover-v2.png" width="1200" alt="PlayStation Games：AstrBot PSN 玩家数据可视化插件，查询游戏库、游戏时长、奖杯与群友排行。点击查看项目。">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/playstation-v3-mobile-dark.svg">
+  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/playstation-v3-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/playstation-v3-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/playstation-v3-light.svg" width="1200" alt="PlayStation Games：把游戏热爱，变成看得见的数据。在聊天里查看 PSN 游戏库与奖杯，和群友分享进度、比较游玩记录。点击查看项目。">
+</picture>
 </a>
-
-AstrBot PSN 玩家数据可视化插件：游戏库、游玩时长、奖杯与群友排行。
 
 <a href="https://github.com/Eason4869/astrbot_plugin_multica_bridge">
-<img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-cover-v2.png" width="1200" alt="Multica Bridge：AstrBot 与 Multica 桥接，在聊天里创建 Issue、管理工作区和项目。点击查看项目。">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-mobile-dark.svg">
+  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-light.svg" width="1200" alt="Multica Bridge：从一句话，到一个新任务。将 AstrBot 接入 Multica，在聊天里创建 Issue、管理项目。点击查看项目。">
+</picture>
 </a>
-
-将 AstrBot 接入 Multica，在聊天里创建 Issue、管理工作区和项目。
 
 ---
 
-**继续逛逛**　[全部项目](https://github.com/Eason4869?tab=repositories)　 /　 [GitHub](https://github.com/Eason4869)
+**继续逛逛**　[全部项目](https://github.com/Eason4869?tab=repositories)
