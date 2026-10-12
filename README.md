@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-v3-mobile-dark.svg">
   <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-v3-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-v3-dark.svg">
-  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-v3-light.svg" width="1200" alt="彧晟 Eason：让连接发生。做有趣、好用的开源工具。">
+  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/hero-v3-light.svg" width="1200" alt="彧晟Eason：让连接发生。做有趣、好用的开源工具。">
 </picture>
 
 <picture>
@@ -41,6 +41,17 @@
   <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-dark.svg">
   <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-light.svg" width="1200" alt="Multica Bridge：从一句话，到一个新任务。将 AstrBot 接入 Multica，在聊天里创建 Issue、管理项目。点击查看项目。">
+</picture>
+</a>
+</p>
+
+<p>
+<a href="https://github.com/Eason4869/coc-keeper-kit">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/coc-keeper-v3-mobile-dark.svg">
+  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/coc-keeper-v3-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/coc-keeper-v3-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/coc-keeper-v3-light.svg" width="1200" alt="CoC Keeper：把模组，变成可交互的主持手册。探索、线索确认与实际选择，连起主持手册和玩家背景板。点击查看项目。">
 </picture>
 </a>
 </p>
