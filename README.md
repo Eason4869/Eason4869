@@ -37,10 +37,10 @@
 <p>
 <a href="https://github.com/Eason4869/astrbot_plugin_multica_bridge">
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-mobile-dark.svg">
-  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-dark.svg">
-  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v3-light.svg" width="1200" alt="Multica Bridge：从一句话，到一个新任务。将 AstrBot 接入 Multica，在聊天里创建 Issue、管理项目。点击查看项目。">
+  <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v4-mobile-dark.svg">
+  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v4-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v4-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/multica-v4-light.svg" width="1200" alt="Multica Bridge：从一句话，到一个新任务。将 AstrBot 接入 Multica，在聊天里创建 Issue、管理项目。点击查看项目。">
 </picture>
 </a>
 </p>
