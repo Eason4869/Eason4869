@@ -48,10 +48,10 @@
 <p>
 <a href="https://github.com/Eason4869/deskpet">
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/deskpet-v3-mobile-dark.svg">
-  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/deskpet-v3-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/deskpet-v3-dark.svg">
-  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/deskpet-v3-light.svg" width="1200" alt="DeskPet：把桌面，变成有陪伴的日常。桌宠互动、AI 对话与实时语音，让代码、设计和想法随时开聊。点击查看项目。">
+  <source media="(prefers-color-scheme: dark) and (max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/deskpet-v4-mobile-dark.svg">
+  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/deskpet-v4-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/deskpet-v4-dark.svg">
+  <img src="https://raw.githubusercontent.com/Eason4869/Eason4869/main/assets/deskpet-v4-light.svg" width="1200" alt="DeskPet：让桌面，多一个伙伴。从桌宠互动、日常聊天，到围绕项目一起处理文件。点击查看项目。">
 </picture>
 </a>
 </p>
